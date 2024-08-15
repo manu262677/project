@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="assets/css/home.css">
+</head>
+<body>
+    <header class="showcase">
+        <div class="showcase-top">
+            <img src="https://i.ibb.co/r5krrdz/logo.png" alt="" />
+            <a href="signin.php" class="btn btn-rounded">Sign In</a>
+        </div>
+        <div class="showcase-content">
+            <h1>See what's next</h1>
+            <p>Watch anywhere</p>
+            <a href="signup.php" class="btn btn-xl"
+                >Create an Account </a>
+        </div>
+    </header>
+    <section>
+        <div class="logos">
+          <a href="https://www.instagram.com/manu.__.21/?utm_source=ig_web_button_share_sheet" target="_blank"><i class="fab fa-instagram fa-2x logo" ></i></a>
+        </div>
+        <div class="sub-links">
+          <ul>
+            <li><a href="#">Help Center</a></li>     
+            <li><a href="#">Investor Relations</a></li>
+            <li><a href="#">Terms of Use</a></li>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>
+        </div>
+      </section>
+      <!-- END OF LINKS -->
+  
+      <!-- FOOTER -->
+      <footer>
+        <p>&copy 2024 Netflix, Inc.</p>
+        <p>MANOJ KUMAR &copy 2024</p>
+      </footer>
+    </div>
+</body>
+</html>
